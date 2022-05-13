@@ -1,2 +1,6 @@
 toml
-gooey
+rich
+boto3
+Flask
+biopython
+numpy
