@@ -129,8 +129,8 @@ dmypy.json
 .pyre/
 
 
-# TOML config
-config.toml 
+# TOML configuration file
+config.toml
 
 # output folder
 output/
