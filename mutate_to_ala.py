@@ -46,6 +46,7 @@ def iterator_cleanup():
 def action_cleanup():
     cmd.quit()
 
+
 def perform_action(to_process:List, chain_type:str, action_type:str):
     """
     Iterates through the list of items to process and performs the action
