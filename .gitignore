@@ -134,3 +134,10 @@ config.toml
 
 # output folder
 output/
+
+# temp folder
+tmp/
+
+
+# OSX
+.DS_Store
