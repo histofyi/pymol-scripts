@@ -22,5 +22,5 @@ def align_to_canonical(mhc_class:str, pdb_code:str, assembly_id:int):
 
 
 
-for pdb_code in ['1mhe_1', '1mhe_2']:
+for pdb_code in ['5im7']:
     align_to_canonical('class_i', pdb_code, 1)
